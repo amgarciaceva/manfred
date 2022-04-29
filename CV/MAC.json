@@ -8,16 +8,44 @@
     "profile": {
       "name": "Antonio Manuel",
       "surnames": "García Ceva",
-      "description": "Soy emprendedor. Estuve diez años gestionando tiendas de reparto de comida a domicilio donde mi principal función era controla y gestionar el producto y el personal. Después monté una empresa de desarrollo y producción de videojuegos centrados en la narrativa para un jugador. Fuimos seleccionados por el programa PlayStation Talents para lanzar nuestro primer videojuego Dawn of Fear al mercado y el 03/02/2020 se publicó en Europa y América, seis meses más tarde salió para la plataforma de Steam a nivel mundial en pc y se tradujo a ocho idiomas. En todo este proceso, que me ha llevado por mi pasión a los videojuegos y las historias siempre he tenido un papel de director/ productor donde cada vez me encuentro más cómodo. Sigo formándome después de haber cursado un máster en emprendimiento y liderazgo en EDEM (escuela de empresarios) en marina de empresas en la gestión de equipos con Álex Rovira en su escuela humanista y me está encantando porque hay muchas formas de hacer las cosas y una de ellas sería elegir una polaridad positiva y aquí introduzco los valores: Coraje, responsabilidad, propósito, perseverancia, humildad, confianza, compromiso, gratitud, reconocimiento, colaboración, amor y generosidad. Me gusta dirigir equipos y me gustan las historias, combinarlo y crear proyectos/ productos que aporten valor."
+      "description": "Soy emprendedor. Estuve diez años gestionando tiendas de reparto de comida a domicilio donde mi principal función era controla y gestionar el producto y el personal. Después monté una empresa de desarrollo y producción de videojuegos centrados en la narrativa para un jugador. Fuimos seleccionados por el programa PlayStation Talents para lanzar nuestro primer videojuego Dawn of Fear al mercado y el 03/02/2020 se publicó en Europa y América, seis meses más tarde salió para la plataforma de Steam a nivel mundial en pc y se tradujo a ocho idiomas. En todo este proceso, que me ha llevado por mi pasión a los videojuegos y las historias siempre he tenido un papel de director/ productor donde cada vez me encuentro más cómodo. Sigo formándome después de haber cursado un máster en emprendimiento y liderazgo en EDEM (escuela de empresarios) en marina de empresas en la gestión de equipos con Álex Rovira en su escuela humanista y me está encantando porque hay muchas formas de hacer las cosas y una de ellas sería elegir una polaridad positiva y aquí introduzco los valores: Coraje, responsabilidad, propósito, perseverancia, humildad, confianza, compromiso, gratitud, reconocimiento, colaboración, amor y generosidad. Me gusta dirigir equipos y me gustan las historias, combinarlo y crear proyectos/ productos que aporten valor.",
+      "avatar": {
+        "alt": "IMG_7847.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/29/2885a18d-5342-4153-b836-b1eddd047f90_img_7847.jpg"
+      }
     },
     "relevantLinks": [
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/antonio-manuel-garc%C3%ADa-ceva-40732152/"
-      },
-      {
         "type": "twitter",
         "URL": "https://twitter.com/Antoniomanuelgc"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/antonio-manuel-garc%C3%ADa-ceva-40732152/"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trello",
+          "type": "technology"
+        }
       }
     ]
   },
