@@ -92,6 +92,32 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Dawn of Fear",
+          "URL": "https://store.steampowered.com/app/1244860/Dawn_of_Fear/",
+          "image": {
+            "alt": "DawnOfFear_StandardEdition.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/14/a01cff18-db95-4eca-a542-4cb0de8b1d4b_dawnoffear_standarde.jpg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2019-01-01",
+            "finishDate": "2020-02-01",
+            "competences": [
+              {
+                "name": "Unity3D",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
