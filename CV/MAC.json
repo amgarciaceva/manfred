@@ -122,6 +122,28 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Premio mejor juego Made in Valencia 2021",
+          "description": "944 personas asistieron a la cuarta edición del Valencia Indie Summit que se celebró íntegramente online.\n\nLos asistentes provenían de países como Indonesia, Japón, Francia, España, Estados Unidos, Canadá, Estonia, Noruega, Inglaterra, Alemania, Korea, Holanda, Italia y Taiwán.",
+          "URL": "https://www.devuego.es/bd/fpremios/valencia-indie-awards",
+          "image": {
+            "alt": "esat_indie_summit.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/14/540511ff-613e-46bf-a6e5-6badb1187eaf_esat_indie_summit.jpg"
+          }
+        },
+        "type": "achievement",
+        "publishingDate": "2021-03-01",
+        "relatedCompetences": [
+          {
+            "name": "Unity3D",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "Awards"
+        ]
+      },
+      {
+        "details": {
           "name": "PS5 y Xbox Serie X se acercarán al PC",
           "URL": "https://www.hobbyconsolas.com/noticias/ps5-xbox-series-x-acercaran-pc-gracias-procesador-zen-2-desarrollador-dawn-fear-584259"
         },
