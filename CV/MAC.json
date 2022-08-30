@@ -13,9 +13,6 @@
       "avatar": {
         "alt": "IMG_7847.jpg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/29/2885a18d-5342-4153-b836-b1eddd047f90_img_7847.jpg"
-      },
-      "location": {
-        "notes": "Valencian Community, Spain"
       }
     },
     "relevantLinks": [
@@ -153,13 +150,13 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Jira",
+          "name": "Trello",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Trello",
+          "name": "Jira",
           "type": "technology"
         }
       }
@@ -235,6 +232,21 @@
         "startDate": "2022-05-14",
         "institution": {
           "name": "Universitat Politècnica de València (UPV)"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Liderazgo Integral",
+        "startDate": "2021-09-01",
+        "institution": {
+          "name": "Escuela Humanista Álex Rovira",
+          "description": "Desarrolla tu capacidad de liderazgo, saca lo mejor de ti y de los demás y logra la excelencia a nivel profesional (y personal)\n\nUn programa para entender las dinámicas del comportamiento humano y alcanzar un grado superior de inteligencia emocional, social y psicoafectiva con el que lograr una transformación consciente y ayudar a otros a conseguir lo mismo",
+          "URL": "https://www.alexroviraescuela.com/liderazgo-integral/",
+          "image": {
+            "alt": "download.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/25df1e0e-f1e2-485c-af7a-04db9ed249fe_download.png"
+          }
         }
       },
       {
