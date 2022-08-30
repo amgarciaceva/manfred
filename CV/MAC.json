@@ -297,7 +297,11 @@
         "finishDate": "2018-12-31",
         "institution": {
           "name": "EDEM Escuela de Empresarios",
-          "URL": "https://www.linkedin.com/school/edem-escuela-de-empresarios/?trk=public_profile_school_profile-section-card_full-click"
+          "URL": "https://www.linkedin.com/school/edem-escuela-de-empresarios/?trk=public_profile_school_profile-section-card_full-click",
+          "image": {
+            "alt": "download (1).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/7ba4e026-0fad-4318-ac83-a374084c75f7_download-(1).png"
+          }
         }
       },
       {
