@@ -194,7 +194,11 @@
         "name": "Cadena de suministro",
         "startDate": "2022-05-14",
         "institution": {
-          "name": "Universitat Politècnica de València (UPV)"
+          "name": "Universitat Politècnica de València (UPV)",
+          "image": {
+            "alt": "download (3).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/e2719ade-0b49-48f3-abc4-a30268a83c5e_download-(3).png"
+          }
         }
       },
       {
