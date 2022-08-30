@@ -181,7 +181,11 @@
         "name": "Estrategia empresarial",
         "startDate": "2022-05-14",
         "institution": {
-          "name": "Universitat Politècnica de València (UPV)"
+          "name": "Universitat Politècnica de València (UPV)",
+          "image": {
+            "alt": "download (3).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/5dfdeba8-e668-48bf-aa11-702722458a32_download-(3).png"
+          }
         }
       },
       {
