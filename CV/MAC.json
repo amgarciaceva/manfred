@@ -217,15 +217,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Marketing",
-        "startDate": "2022-05-14",
-        "institution": {
-          "name": "Universitat Politècnica de València (UPV)"
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
         "name": "Aspectos mercantiles y fiscales",
         "startDate": "2022-05-14",
         "institution": {
@@ -246,6 +237,19 @@
           "image": {
             "alt": "download (3).png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/1ebb0c9f-c60c-4044-955b-bd306c086a27_download-(3).png"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Marketing",
+        "startDate": "2022-05-14",
+        "institution": {
+          "name": "Universitat Politècnica de València (UPV)",
+          "image": {
+            "alt": "download (3).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/4a5804b6-24d6-4809-9a47-ed89b4376efc_download-(3).png"
           }
         }
       },
