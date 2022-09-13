@@ -13,6 +13,10 @@
       "avatar": {
         "alt": "IMG_7847.jpg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/29/2885a18d-5342-4153-b836-b1eddd047f90_img_7847.jpg"
+      },
+      "location": {
+        "country": "España",
+        "region": "Comunidad Valenciana"
       }
     },
     "relevantLinks": [
@@ -144,6 +148,9 @@
   "knowledge": {
     "languages": [
       {
+        "name": "English"
+      },
+      {
         "name": "Spanish"
       }
     ],
@@ -157,6 +164,18 @@
       {
         "skill": {
           "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Unity3D",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Unreal",
           "type": "technology"
         }
       }
