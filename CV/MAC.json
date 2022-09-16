@@ -315,6 +315,20 @@
         }
       },
       {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Periodismo ",
+        "startDate": "2011-01-01",
+        "institution": {
+          "name": "Universidad Miguel Hernández de Elche",
+          "URL": "https://www.linkedin.com/school/universidad-miguel-hernandez-de-elche/?trk=public_profile_school_profile-section-card_full-click",
+          "image": {
+            "alt": "download (2).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/3954974e-5cf6-4517-9089-af06e25dc931_download-(2).png"
+          }
+        }
+      },
+      {
         "studyType": "certification",
         "degreeAchieved": true,
         "name": "Creatividad y generación de ideas",
@@ -366,21 +380,6 @@
           "image": {
             "alt": "download (1).png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/7ba4e026-0fad-4318-ac83-a374084c75f7_download-(1).png"
-          }
-        }
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Periodismo ",
-        "startDate": "2011-01-01",
-        "finishDate": "2015-12-31",
-        "institution": {
-          "name": "Universidad Miguel Hernández de Elche",
-          "URL": "https://www.linkedin.com/school/universidad-miguel-hernandez-de-elche/?trk=public_profile_school_profile-section-card_full-click",
-          "image": {
-            "alt": "download (2).png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/3954974e-5cf6-4517-9089-af06e25dc931_download-(2).png"
           }
         }
       }
