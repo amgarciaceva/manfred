@@ -70,6 +70,10 @@
       {
         "organization": {
           "name": "DEV, Asociación Españolas de Empresas Productoras y Desarrolladoras de Videojuegos",
+          "image": {
+            "alt": "1591365073191.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/20/7c114171-c6c8-4bf4-a1dc-444d22128d76_1591365073191.jpeg"
+          },
           "URL": "https://www.linkedin.com/company/dev-es?trk=public_profile_experience-item_profile-section-card_subtitle-click"
         },
         "roles": [
