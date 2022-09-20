@@ -49,6 +49,10 @@
       {
         "organization": {
           "name": "Brok3nsite",
+          "image": {
+            "alt": "Br0k3nSite LOGOa.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/20/b88312c1-40a6-40da-9f17-866fa431824c_br0k3nsite-logoa.png"
+          },
           "URL": "https://www.linkedin.com/company/brok3nsite?trk=public_profile_experience-item_profile-section-card_subtitle-click"
         },
         "roles": [
@@ -57,7 +61,7 @@
             "startDate": "2016-05-01",
             "challenges": [
               {
-                "description": "Responsable de la misión, visión y valores de la compañía. Responsable de la organización y selección del equipo adecuado para los proyectos. Diseño e implementación del plan de negocio y plan financiero. Responsable de la misión, visión y valores de la compañía. Responsable de la organización y selección del equipo adecuado para los proyectos. Diseño e implementación del plan de negocio y plan financiero."
+                "description": "Responsable de la misión, visión y valores de la compañía. Responsable de la organización y selección del equipo adecuado para los proyectos. Diseño e implementación del plan de negocio y plan financiero. Responsable de la misión, visión y valores de la compañía. Responsable de la organización y selección del equipo adecuado para los proyectos. "
               }
             ]
           }
