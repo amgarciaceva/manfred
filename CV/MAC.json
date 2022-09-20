@@ -204,6 +204,12 @@
           "name": "Unreal",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
