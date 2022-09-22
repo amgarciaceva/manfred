@@ -226,6 +226,12 @@
           "name": "Github",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Notion",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
