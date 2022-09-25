@@ -223,12 +223,6 @@
       },
       {
         "skill": {
-          "name": "Github",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Notion",
           "type": "technology"
         }
@@ -290,19 +284,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Aspectos mercantiles y fiscales",
-        "startDate": "2022-05-14",
-        "institution": {
-          "name": "Universitat Politècnica de València (UPV)",
-          "image": {
-            "alt": "download (3).png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/b30bd10e-d952-494b-837b-d02cea10e0ff_download-(3).png"
-          }
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
         "name": "Contabilidad y finanzas para emprendedores",
         "startDate": "2022-05-14",
         "institution": {
@@ -323,6 +304,19 @@
           "image": {
             "alt": "download (3).png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/4a5804b6-24d6-4809-9a47-ed89b4376efc_download-(3).png"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Aspectos mercantiles y fiscales",
+        "startDate": "2022-05-14",
+        "institution": {
+          "name": "Universitat Politècnica de València (UPV)",
+          "image": {
+            "alt": "download (3).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/b30bd10e-d952-494b-837b-d02cea10e0ff_download-(3).png"
           }
         }
       },
