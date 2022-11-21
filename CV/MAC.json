@@ -1,14 +1,14 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "Antonio Manuel",
       "surnames": "García Ceva",
-      "title": "Game Producer, Game designer, Creative Director",
+      "title": "Product Manager | Game designer | HR | People First",
       "description": "When I was a child I always wanted to be a cook and now I want to adapt the never-ending story into a videogame. I can tell you that I became a cook and that I have already published my first videogame. \n\nI have more than 12 years of experience managing teams. \n\nI have been in the world of video games for six years, where I have acquired the experience of founding my own company, developing a videogame from start to finish, publishing it on console and PC and localising it into eight languages. ",
       "avatar": {
         "alt": "IMG_7847.jpg",
@@ -16,10 +16,15 @@
       },
       "location": {
         "country": "España",
-        "region": "Comunidad Valenciana"
+        "region": "Comunidad Valenciana",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://antonio-manuel-gc.super.site/"
+      },
       {
         "type": "github",
         "URL": "https://github.com/amgarciaceva"
@@ -190,10 +195,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
@@ -427,6 +434,14 @@
           "URL": "https://www.linkedin.com/in/antonio-manuel-garc%C3%ADa-ceva-40732152/"
         }
       ]
-    }
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Director / General Manager",
+        "Product Manager",
+        "Product Owner"
+      ]
+    },
+    "status": "searchingActively"
   }
 }
