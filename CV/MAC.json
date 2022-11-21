@@ -206,7 +206,13 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Trello",
+          "name": "Unity3D",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Unreal",
           "type": "technology"
         }
       },
@@ -218,13 +224,13 @@
       },
       {
         "skill": {
-          "name": "Unity3D",
+          "name": "Miro",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Unreal",
+          "name": "Trello",
           "type": "technology"
         }
       },
