@@ -443,9 +443,8 @@
     },
     "preferences": {
       "preferredRoles": [
-        "Director / General Manager",
-        "Product Manager",
-        "Product Owner"
+        "Human Resources",
+        "Product Manager"
       ]
     },
     "status": "searchingActively"
