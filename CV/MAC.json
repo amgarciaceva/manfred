@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -16,8 +16,7 @@
       },
       "location": {
         "country": "España",
-        "region": "Comunidad Valenciana",
-        "notes": "Autocompleted using Google Maps API"
+        "region": "Comunidad Valenciana"
       }
     },
     "relevantLinks": [
@@ -82,7 +81,7 @@
             "startDate": "2016-05-01",
             "challenges": [
               {
-                "description": "Responsable de la misión, visión y valores de la compañía. Responsable de la organización y selección del equipo adecuado para los proyectos. Diseño e implementación del plan de negocio y plan financiero. Responsable de la misión, visión y valores de la compañía. Responsable de la organización y selección del equipo adecuado para los proyectos. "
+                "description": "Responsable de la misión, visión y valores de la compañía. \n\nDefinición de los OKR'S (objetives and key results) y del roadmap siempre en colaboración con todo el equipo.\n\nDirigir la producción del diseño y el desarrollo de la lógica y el comportamiento del juego (jugabilidad, niveles, interfaces, flujo del juego...).\n\nResponsable de todo el proceso de lanzamiento en consola (PlayStation) y PC (Steam), envío de builds, control de calidad y resolución de errores y requisitos de certificación técnica.\n\nToma de decisiones para asegurar el calendario y las fechas de los hitos.\n\nImplementar las herramientas y metodologías de  trabajo con el equipo."
               }
             ]
           }
@@ -195,12 +194,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Professional working proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -446,7 +443,6 @@
         "Human Resources",
         "Product Manager"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
