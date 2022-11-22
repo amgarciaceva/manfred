@@ -135,7 +135,12 @@
           {
             "name": "Encargado",
             "startDate": "2005-02-01",
-            "finishDate": "2017-09-30"
+            "finishDate": "2017-09-30",
+            "challenges": [
+              {
+                "description": "Controlar y supervisar el producto y los trabajadores.\n\nResponsable de la realización de pedidos a proveedores.\n\nResponsable de la realización y gestión de horarios y vacaciones de más de 30 empleados. \n\nResponsable de la formación de riesgos laborales y plan de acogida para nuevos trabajadores."
+              }
+            ]
           }
         ]
       }
