@@ -111,19 +111,6 @@
       },
       {
         "organization": {
-          "name": "4Emprendedores",
-          "URL": "https://www.linkedin.com/company/4emprendedores?trk=public_profile_experience-item_profile-section-card_subtitle-click"
-        },
-        "roles": [
-          {
-            "name": "Co Founder",
-            "startDate": "2018-01-01",
-            "finishDate": "2019-01-31"
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Telepizza",
           "image": {
             "alt": "images.png",
