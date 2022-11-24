@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -16,7 +16,8 @@
       },
       "location": {
         "country": "España",
-        "region": "Comunidad Valenciana"
+        "region": "Comunidad Valenciana",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -186,10 +187,16 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "Catalan",
+        "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "English",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -435,6 +442,7 @@
         "Human Resources",
         "Product Manager"
       ]
-    }
+    },
+    "status": "searchingActively"
   }
 }
