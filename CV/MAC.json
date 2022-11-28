@@ -38,6 +38,20 @@
         "URL": "https://www.linkedin.com/in/antonio-manuel-garc%C3%ADa-ceva-40732152/"
       }
     ],
+    "interestingFacts": [
+      {
+        "topic": "I love videogames",
+        "fact": "Especially rol and adventure"
+      },
+      {
+        "topic": "I love movies ",
+        "fact": "Especially scary movies "
+      },
+      {
+        "topic": "I love pizza ",
+        "fact": "Yes, even with pineapple hahaha"
+      }
+    ],
     "recommendations": [
       {
         "title": "La buena suerte ",
