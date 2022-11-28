@@ -452,9 +452,24 @@
       ]
     },
     "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Asana",
+          "type": "technology"
+        },
+        {
+          "name": "Jira",
+          "type": "technology"
+        },
+        {
+          "name": "Trello",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Human Resources",
-        "Product Manager"
+        "Product Manager",
+        "Project Manager & Delivery Manager"
       ]
     },
     "status": "searchingActively"
