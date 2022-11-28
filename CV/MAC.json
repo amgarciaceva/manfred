@@ -41,15 +41,15 @@
     "interestingFacts": [
       {
         "topic": "I love movies ",
-        "fact": "Contact\nPride & Prejudice\nInterstellar\nAlien 1 y 2"
+        "fact": "Contact ||\nPride & Prejudice ||\nInterstellar ||\nAlien 1 y 2"
       },
       {
         "topic": "I love pizza ",
-        "fact": "Nothing else to say"
+        "fact": "Nothing else to say ||"
       },
       {
         "topic": "I love videogames",
-        "fact": "The last of Us\nResident Evil \nXenoblade Chronicle\nChrono Cross"
+        "fact": "The last of Us ||\nResident Evil ||\nXenoblade Chronicle ||\nChrono Cross"
       }
     ],
     "recommendations": [
