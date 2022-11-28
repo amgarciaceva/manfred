@@ -40,16 +40,16 @@
     ],
     "interestingFacts": [
       {
-        "topic": "I love videogames",
-        "fact": "Especially rol and adventure"
-      },
-      {
         "topic": "I love movies ",
-        "fact": "Especially scary movies "
+        "fact": "Contact\nPride & Prejudice\nInterstellar\nAlien 1 y 2"
       },
       {
         "topic": "I love pizza ",
-        "fact": "Yes, even with pineapple hahaha"
+        "fact": "Nothing else to say"
+      },
+      {
+        "topic": "I love videogames",
+        "fact": "The last of Us\nResident Evil \nXenoblade Chronicle\nChrono Cross"
       }
     ],
     "recommendations": [
