@@ -462,6 +462,10 @@
           "type": "technology"
         },
         {
+          "name": "Notion",
+          "type": "technology"
+        },
+        {
           "name": "Trello",
           "type": "technology"
         }
