@@ -373,7 +373,11 @@
         "name": "Creatividad y generación de ideas",
         "startDate": "2017-10-01",
         "institution": {
-          "name": "Universitat Politècnica de València (UPV)"
+          "name": "Universitat Politècnica de València (UPV)",
+          "image": {
+            "alt": "d.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/20/bec559f3-ceac-4605-938c-ca4e2349bfa8_d.png"
+          }
         }
       },
       {
