@@ -370,6 +370,15 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Creatividad y generación de ideas",
+        "startDate": "2017-10-01",
+        "institution": {
+          "name": "Universitat Politècnica de València (UPV)"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Prospección de mercados",
         "startDate": "2017-10-01",
         "institution": {
@@ -388,16 +397,6 @@
             "alt": "download (2).png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/3954974e-5cf6-4517-9089-af06e25dc931_download-(2).png"
           }
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Creatividad y generación de ideas",
-        "startDate": "2017-10-01",
-        "finishDate": "2017-10-01",
-        "institution": {
-          "name": "Universitat Politècnica de València (UPV)"
         }
       },
       {
