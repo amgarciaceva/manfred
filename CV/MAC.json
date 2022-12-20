@@ -379,15 +379,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Prospección de mercados",
-        "startDate": "2017-10-01",
-        "institution": {
-          "name": "Universitat Politècnica de València (UPV)"
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
         "name": "Gestión de personas",
         "startDate": "2017-10-01",
         "institution": {
@@ -401,6 +392,19 @@
         "startDate": "2017-10-01",
         "institution": {
           "name": "Universitat Politècnica de València (UPV)"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Prospección de mercados",
+        "startDate": "2017-10-01",
+        "institution": {
+          "name": "Universitat Politècnica de València (UPV)",
+          "image": {
+            "alt": "d.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/20/ff83bd23-edc9-42dd-b45a-147a241406a0_d.png"
+          }
         }
       },
       {
