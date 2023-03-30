@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -16,7 +16,8 @@
       },
       "location": {
         "country": "España",
-        "region": "Comunidad Valenciana"
+        "region": "Comunidad Valenciana",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -171,6 +172,7 @@
       {
         "details": {
           "name": "Dawn of Fear",
+          "description": "",
           "URL": "https://store.steampowered.com/app/1244860/Dawn_of_Fear/",
           "image": {
             "alt": "DawnOfFear_StandardEdition.jpg",
@@ -221,13 +223,16 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan"
+        "name": "Catalan",
+        "level": "Full professional proficiency"
       },
       {
-        "name": "English"
+        "name": "English",
+        "level": "Professional working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -276,6 +281,7 @@
         "startDate": "2022-05-14",
         "institution": {
           "name": "Universitat Politècnica de València (UPV)",
+          "description": "",
           "image": {
             "alt": "download (3).png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/739ff396-ab20-4829-bcfa-db1a94bfd9df_download-(3).png"
@@ -289,6 +295,7 @@
         "startDate": "2022-05-14",
         "institution": {
           "name": "Universitat Politècnica de València (UPV)",
+          "description": "",
           "image": {
             "alt": "download (3).png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/5dfdeba8-e668-48bf-aa11-702722458a32_download-(3).png"
@@ -302,6 +309,7 @@
         "startDate": "2022-05-14",
         "institution": {
           "name": "Universitat Politècnica de València (UPV)",
+          "description": "",
           "image": {
             "alt": "download (3).png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/1f5dd0fb-fadf-4914-aeb8-63e9f285a3af_download-(3).png"
@@ -315,6 +323,7 @@
         "startDate": "2022-05-14",
         "institution": {
           "name": "Universitat Politècnica de València (UPV)",
+          "description": "",
           "image": {
             "alt": "download (3).png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/e2719ade-0b49-48f3-abc4-a30268a83c5e_download-(3).png"
@@ -328,6 +337,7 @@
         "startDate": "2022-05-14",
         "institution": {
           "name": "Universitat Politècnica de València (UPV)",
+          "description": "",
           "image": {
             "alt": "download (3).png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/1ebb0c9f-c60c-4044-955b-bd306c086a27_download-(3).png"
@@ -341,6 +351,7 @@
         "startDate": "2022-05-14",
         "institution": {
           "name": "Universitat Politècnica de València (UPV)",
+          "description": "",
           "image": {
             "alt": "download (3).png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/4a5804b6-24d6-4809-9a47-ed89b4376efc_download-(3).png"
@@ -354,6 +365,7 @@
         "startDate": "2022-05-14",
         "institution": {
           "name": "Universitat Politècnica de València (UPV)",
+          "description": "",
           "image": {
             "alt": "download (3).png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/b30bd10e-d952-494b-837b-d02cea10e0ff_download-(3).png"
@@ -367,6 +379,7 @@
         "startDate": "2022-05-14",
         "institution": {
           "name": "Universitat Politècnica de València (UPV)",
+          "description": "",
           "image": {
             "alt": "download (3).png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/ca1b5e2c-0d01-47a1-862f-edb0af5088de_download-(3).png"
@@ -395,6 +408,7 @@
         "startDate": "2017-10-01",
         "institution": {
           "name": "Universitat Politècnica de València (UPV)",
+          "description": "",
           "image": {
             "alt": "d.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/20/bec559f3-ceac-4605-938c-ca4e2349bfa8_d.png"
@@ -408,6 +422,7 @@
         "startDate": "2017-10-01",
         "institution": {
           "name": "Universitat Politècnica de València (UPV)",
+          "description": "",
           "image": {
             "alt": "d.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/20/ff83bd23-edc9-42dd-b45a-147a241406a0_d.png"
@@ -421,6 +436,7 @@
         "startDate": "2017-10-01",
         "institution": {
           "name": "Universitat Politècnica de València (UPV)",
+          "description": "",
           "image": {
             "alt": "d.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/20/7a45cbe0-10c0-4a02-a789-4a62e1d84c67_d.png"
@@ -434,6 +450,7 @@
         "startDate": "2017-10-01",
         "institution": {
           "name": "Universitat Politècnica de València (UPV)",
+          "description": "",
           "image": {
             "alt": "d.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/20/612d3041-1ba6-445d-8a02-abd5f025bc1d_d.png"
@@ -447,6 +464,7 @@
         "startDate": "2011-01-01",
         "institution": {
           "name": "Universidad Miguel Hernández de Elche",
+          "description": "",
           "URL": "https://www.linkedin.com/school/universidad-miguel-hernandez-de-elche/?trk=public_profile_school_profile-section-card_full-click",
           "image": {
             "alt": "download (2).png",
@@ -462,6 +480,7 @@
         "finishDate": "2018-12-31",
         "institution": {
           "name": "EDEM Escuela de Empresarios",
+          "description": "",
           "URL": "https://www.linkedin.com/school/edem-escuela-de-empresarios/?trk=public_profile_school_profile-section-card_full-click",
           "image": {
             "alt": "download (1).png",
@@ -504,6 +523,7 @@
         "Product Manager",
         "Project Manager & Delivery Manager"
       ]
-    }
+    },
+    "status": "searchingActively"
   }
 }
