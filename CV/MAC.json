@@ -468,6 +468,22 @@
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/7ba4e026-0fad-4318-ac83-a374084c75f7_download-(1).png"
           }
         }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Proyecto Coworking EOI Mediterráneo ",
+        "startDate": "2016-06-01",
+        "finishDate": "2017-09-01",
+        "institution": {
+          "name": "EOI Escuela de organización industrial ",
+          "description": "Empresa, gestión, marketing y disciplinas afines",
+          "URL": "https://www.eoi.es/es",
+          "image": {
+            "alt": "logoeoiok.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/21/67fbcd53-6a11-49bb-84c3-a683335f086c_logoeoiok.jpg"
+          }
+        }
       }
     ]
   },
