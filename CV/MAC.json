@@ -455,6 +455,28 @@
         }
       },
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Digital Product Management",
+        "startDate": "2022-11-01",
+        "finishDate": "2023-02-01",
+        "institution": {
+          "name": "Domestika",
+          "description": "Aprende cómo ser Product Manager y especialízate en gestionar productos digitales aplicando metodologías ágiles y estrategias de éxito a largo plazo.\n\n¿Quieres adentrarte en el mundo del Digital Product Management? Déjate guiar por María Granadino e Irene Prieto, ambas Product Managers, y aprende a crear productos digitales desde cero y descubre cuál es el rol del Product Manager en una empresa.\n\nEn este curso conocerás qué es el lean product management y aprenderás a detectar los problemas de los usuarios/as para encontrar esa oportunidad de mercado donde puedas aportar valor con tu producto digital. También experimentarás creando tu MVP (Mínimo Producto Viable) para lanzarlo al mercado y aprender de forma eficiente y user-centric.",
+          "URL": "https://www.domestika.org/es",
+          "image": {
+            "alt": "Domestika.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/24/a964fb85-4988-4b84-92ae-e33d0fc02777_domestika.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Miro",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Máster en Emprendimiento y Liderazgo Empresa, gestión, marketing y disciplinas afines",
