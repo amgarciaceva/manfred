@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -11,32 +11,15 @@
       "title": "Producer | Project Manager | Game designer | HR | People First",
       "description": "For more than a decade, I have played the role of team manager, coordinating and guiding work groups to success. In the last phase of my career, I decided to start my own project: a video game company that led us to launch our first video game on the PlayStation and Steam platforms. However, it is now time to close this chapter and open a new stage.\n\nIn my experience, I discovered that I am passionate about production and project management, which led me to implement various work methodologies, such as Scrum, Kanban, Design thinking, Lean and Agile. I am particularly excited about the opportunity to lead teams using these tools, striking a balance between efficiency and creativity.\n\nIn order to hone my leadership skills, I have taken several courses at the Álex Rovira Humanist School, which allowed me to gain a different perspective on training and culture building within a company. In my opinion, this is a neglected competitive advantage that needs to be exploited to the full.\n\nCurrently, I am deeply interested in positions such as Producer, Product Manager or Project Manager, but I am also considering a position in People, where I could act as a mentor and guardian of the company culture. I am passionate about inspiring and guiding others to achieve success through teamwork and company culture.",
       "avatar": {
-        "alt": "IMG_0433.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/31/6be65e78-a9ed-4b4d-a6b0-305afa7b8e4a_img_0433.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/31/6be65e78-a9ed-4b4d-a6b0-305afa7b8e4a_img_0433.jpg",
+        "alt": "IMG_0433.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJDTGOzUD8XQ0RXQsxGLjLQF8)",
         "country": "España",
         "region": "Comunidad Valenciana"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "other",
-        "URL": "https://antonio-manuel-gc.super.site/"
-      },
-      {
-        "type": "github",
-        "URL": "https://github.com/amgarciaceva"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/Antoniomanuelgc"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/antonio-manuel-garc%C3%ADa-ceva-40732152/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "I love movies ",
@@ -55,26 +38,33 @@
       {
         "title": "La buena suerte ",
         "type": "reading",
+        "summary": "Hace mucho tiempo, en un reino lejano, Merlín convocó a todos los caballeros y les dijo: «He sabido que en el Bosque Encantado, en un plazo de siete noches, nacerá el Trébol Mágico. Es un trébol de cuatro hojas único, que proporcionará a quien lo posea una suerte ilimitada.» ",
         "authors": [
           {
             "name": "Álex",
             "surnames": "Rovira y Fernando Trias de Bes",
             "title": "Author"
           }
-        ],
-        "summary": "Hace mucho tiempo, en un reino lejano, Merlín convocó a todos los caballeros y les dijo: «He sabido que en el Bosque Encantado, en un plazo de siete noches, nacerá el Trébol Mágico. Es un trébol de cuatro hojas único, que proporcionará a quien lo posea una suerte ilimitada.» "
+        ]
       },
       {
         "title": "La historia interminable ",
         "type": "reading",
+        "summary": "La Emperatriz Infantil está mortalmente enferma y su reino, Fantasia, corre un grave peligro. La salvación depende de Atreyu, un valiente guerrero de la tribu de los pieles verdes, y Bastian, un niño tímido que lee con pasión un libro mágico. Solo un ser humano puede salvar este lugar encantado. Juntos emprenderán un fascinante viaje a través de tierras de dragones, gigantes, monstruos y magia que no tiene vuelta atrás. A medida que se adentra en Fantasia, Bastian deberá resolver también los misterios de su propio corazón.",
         "authors": [
           {
             "name": "Michael",
             "surnames": "Ende",
             "title": "Author"
           }
-        ],
-        "summary": "La Emperatriz Infantil está mortalmente enferma y su reino, Fantasia, corre un grave peligro. La salvación depende de Atreyu, un valiente guerrero de la tribu de los pieles verdes, y Bastian, un niño tímido que lee con pasión un libro mágico. Solo un ser humano puede salvar este lugar encantado. Juntos emprenderán un fascinante viaje a través de tierras de dragones, gigantes, monstruos y magia que no tiene vuelta atrás. A medida que se adentra en Fantasia, Bastian deberá resolver también los misterios de su propio corazón."
+        ]
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://antonio-manuel-gc.super.site/",
+        "description": "Web personal"
       }
     ]
   },
@@ -84,8 +74,8 @@
         "organization": {
           "name": "TECH Universidad Tecnológica",
           "image": {
-            "alt": "tech.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/05/3d76f12a-f990-4f03-9b2e-7e876e6c6331_tech.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/05/3d76f12a-f990-4f03-9b2e-7e876e6c6331_tech.jpeg",
+            "alt": "tech.jpeg"
           },
           "URL": "https://www.techtitute.com/"
         },
@@ -93,6 +83,7 @@
           {
             "name": "Profesor",
             "startDate": "2023-01-01",
+            "finishDate": "2023-09-01",
             "challenges": [
               {
                 "description": "Director del programa \"Producción de videojuegos\" "
@@ -103,31 +94,10 @@
       },
       {
         "organization": {
-          "name": "Brok3nsite",
-          "image": {
-            "alt": "Br0k3nSite LOGOa.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/20/b88312c1-40a6-40da-9f17-866fa431824c_br0k3nsite-logoa.png"
-          },
-          "URL": "https://www.linkedin.com/company/brok3nsite?trk=public_profile_experience-item_profile-section-card_subtitle-click"
-        },
-        "roles": [
-          {
-            "name": "Chief Executive Officer",
-            "startDate": "2016-05-01",
-            "challenges": [
-              {
-                "description": "Responsable de la misión, visión y valores de la compañía. \n\nDefinición de los OKR'S (objetives and key results) y del roadmap siempre en colaboración con todo el equipo.\n\nDirigir la producción del diseño y el desarrollo de la lógica y el comportamiento del juego (jugabilidad, niveles, interfaces, flujo del juego...).\n\nResponsable de todo el proceso de lanzamiento en consola (PlayStation) y PC (Steam), envío de builds, control de calidad y resolución de errores y requisitos de certificación técnica.\n\nToma de decisiones para asegurar el calendario y las fechas de los hitos.\n\nImplementar las herramientas y metodologías de  trabajo con el equipo."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "DEV, Asociación Españolas de Empresas Productoras y Desarrolladoras de Videojuegos",
           "image": {
-            "alt": "1591365073191.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/20/7c114171-c6c8-4bf4-a1dc-444d22128d76_1591365073191.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/20/7c114171-c6c8-4bf4-a1dc-444d22128d76_1591365073191.jpeg",
+            "alt": "1591365073191.jpeg"
           },
           "URL": "https://www.linkedin.com/company/dev-es?trk=public_profile_experience-item_profile-section-card_subtitle-click"
         },
@@ -146,10 +116,31 @@
       },
       {
         "organization": {
+          "name": "Brok3nsite",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/20/b88312c1-40a6-40da-9f17-866fa431824c_br0k3nsite-logoa.png",
+            "alt": "Br0k3nSite LOGOa.png"
+          },
+          "URL": "https://www.linkedin.com/company/brok3nsite?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Chief Executive Officer",
+            "startDate": "2016-05-01",
+            "challenges": [
+              {
+                "description": "Responsable de la misión, visión y valores de la compañía. \n\nDefinición de los OKR'S (objetives and key results) y del roadmap siempre en colaboración con todo el equipo.\n\nDirigir la producción del diseño y el desarrollo de la lógica y el comportamiento del juego (jugabilidad, niveles, interfaces, flujo del juego...).\n\nResponsable de todo el proceso de lanzamiento en consola (PlayStation) y PC (Steam), envío de builds, control de calidad y resolución de errores y requisitos de certificación técnica.\n\nToma de decisiones para asegurar el calendario y las fechas de los hitos.\n\nImplementar las herramientas y metodologías de  trabajo con el equipo."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Telepizza",
           "image": {
-            "alt": "images.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/20/4cf1b59f-3a66-4722-b8f0-463b384b9ecd_images.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/20/4cf1b59f-3a66-4722-b8f0-463b384b9ecd_images.png",
+            "alt": "images.png"
           },
           "URL": "https://www.linkedin.com/company/fooddeliverybrands?trk=public_profile_experience-item_profile-section-card_subtitle-click"
         },
@@ -173,8 +164,8 @@
           "name": "Dawn of Fear",
           "URL": "https://store.steampowered.com/app/1244860/Dawn_of_Fear/",
           "image": {
-            "alt": "DawnOfFear_StandardEdition.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/14/a01cff18-db95-4eca-a542-4cb0de8b1d4b_dawnoffear_standarde.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/14/a01cff18-db95-4eca-a542-4cb0de8b1d4b_dawnoffear_standarde.jpg",
+            "alt": "DawnOfFear_StandardEdition.jpg"
           }
         },
         "type": "sideProject",
@@ -182,13 +173,13 @@
           {
             "name": "Developer",
             "startDate": "2019-01-01",
-            "finishDate": "2020-02-01",
             "competences": [
               {
                 "name": "Unity3D",
                 "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2020-02-01"
           }
         ]
       }
@@ -200,20 +191,20 @@
           "description": "944 personas asistieron a la cuarta edición del Valencia Indie Summit que se celebró íntegramente online.\n\nLos asistentes provenían de países como Indonesia, Japón, Francia, España, Estados Unidos, Canadá, Estonia, Noruega, Inglaterra, Alemania, Korea, Holanda, Italia y Taiwán.",
           "URL": "https://www.devuego.es/bd/fpremios/valencia-indie-awards",
           "image": {
-            "alt": "esat_indie_summit.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/14/540511ff-613e-46bf-a6e5-6badb1187eaf_esat_indie_summit.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/14/540511ff-613e-46bf-a6e5-6badb1187eaf_esat_indie_summit.jpg",
+            "alt": "esat_indie_summit.jpg"
           }
         },
         "type": "achievement",
         "publishingDate": "2021-03-01",
+        "tags": [
+          "Awards"
+        ],
         "relatedCompetences": [
           {
             "name": "Unity3D",
             "type": "technology"
           }
-        ],
-        "tags": [
-          "Awards"
         ]
       }
     ]
@@ -221,28 +212,19 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan"
+        "name": "CA",
+        "level": "Full professional proficiency"
       },
       {
-        "name": "English"
+        "name": "EN",
+        "level": "Professional working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
-      {
-        "skill": {
-          "name": "Unity3D",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Unreal",
-          "type": "technology"
-        }
-      },
       {
         "skill": {
           "name": "Jira",
@@ -257,13 +239,25 @@
       },
       {
         "skill": {
+          "name": "Notion",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Trello",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Notion",
+          "name": "Unity3D",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Unreal",
           "type": "technology"
         }
       }
@@ -272,39 +266,13 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Desarrollo de producto",
+        "name": "Aspectos mercantiles y fiscales",
         "startDate": "2022-05-14",
         "institution": {
           "name": "Universitat Politècnica de València (UPV)",
           "image": {
-            "alt": "download (3).png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/739ff396-ab20-4829-bcfa-db1a94bfd9df_download-(3).png"
-          }
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Estrategia empresarial",
-        "startDate": "2022-05-14",
-        "institution": {
-          "name": "Universitat Politècnica de València (UPV)",
-          "image": {
-            "alt": "download (3).png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/5dfdeba8-e668-48bf-aa11-702722458a32_download-(3).png"
-          }
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Diagnóstico estratégico",
-        "startDate": "2022-05-14",
-        "institution": {
-          "name": "Universitat Politècnica de València (UPV)",
-          "image": {
-            "alt": "download (3).png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/1f5dd0fb-fadf-4914-aeb8-63e9f285a3af_download-(3).png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/b30bd10e-d952-494b-837b-d02cea10e0ff_download-(3).png",
+            "alt": "download (3).png"
           }
         }
       },
@@ -316,8 +284,8 @@
         "institution": {
           "name": "Universitat Politècnica de València (UPV)",
           "image": {
-            "alt": "download (3).png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/e2719ade-0b49-48f3-abc4-a30268a83c5e_download-(3).png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/e2719ade-0b49-48f3-abc4-a30268a83c5e_download-(3).png",
+            "alt": "download (3).png"
           }
         }
       },
@@ -329,36 +297,71 @@
         "institution": {
           "name": "Universitat Politècnica de València (UPV)",
           "image": {
-            "alt": "download (3).png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/1ebb0c9f-c60c-4044-955b-bd306c086a27_download-(3).png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/1ebb0c9f-c60c-4044-955b-bd306c086a27_download-(3).png",
+            "alt": "download (3).png"
           }
         }
       },
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Marketing",
-        "startDate": "2022-05-14",
+        "name": "Creatividad y generación de ideas",
+        "startDate": "2017-10-01",
         "institution": {
           "name": "Universitat Politècnica de València (UPV)",
           "image": {
-            "alt": "download (3).png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/4a5804b6-24d6-4809-9a47-ed89b4376efc_download-(3).png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/20/bec559f3-ceac-4605-938c-ca4e2349bfa8_d.png",
+            "alt": "d.png"
           }
         }
       },
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Aspectos mercantiles y fiscales",
+        "name": "Desarrollo de producto",
         "startDate": "2022-05-14",
         "institution": {
           "name": "Universitat Politècnica de València (UPV)",
           "image": {
-            "alt": "download (3).png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/b30bd10e-d952-494b-837b-d02cea10e0ff_download-(3).png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/739ff396-ab20-4829-bcfa-db1a94bfd9df_download-(3).png",
+            "alt": "download (3).png"
           }
         }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Diagnóstico estratégico",
+        "startDate": "2022-05-14",
+        "institution": {
+          "name": "Universitat Politècnica de València (UPV)",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/1f5dd0fb-fadf-4914-aeb8-63e9f285a3af_download-(3).png",
+            "alt": "download (3).png"
+          }
+        }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Digital Product Management",
+        "startDate": "2022-11-01",
+        "institution": {
+          "name": "Domestika",
+          "description": "Aprende cómo ser Product Manager y especialízate en gestionar productos digitales aplicando metodologías ágiles y estrategias de éxito a largo plazo.\n\n¿Quieres adentrarte en el mundo del Digital Product Management? Déjate guiar por María Granadino e Irene Prieto, ambas Product Managers, y aprende a crear productos digitales desde cero y descubre cuál es el rol del Product Manager en una empresa.\n\nEn este curso conocerás qué es el lean product management y aprenderás a detectar los problemas de los usuarios/as para encontrar esa oportunidad de mercado donde puedas aportar valor con tu producto digital. También experimentarás creando tu MVP (Mínimo Producto Viable) para lanzarlo al mercado y aprender de forma eficiente y user-centric.",
+          "URL": "https://www.domestika.org/es",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/24/a964fb85-4988-4b84-92ae-e33d0fc02777_domestika.png",
+            "alt": "Domestika.png"
+          }
+        },
+        "finishDate": "2023-02-01",
+        "linkedCompetences": [
+          {
+            "name": "Miro",
+            "type": "technology"
+          }
+        ]
       },
       {
         "studyType": "certification",
@@ -368,8 +371,47 @@
         "institution": {
           "name": "Universitat Politècnica de València (UPV)",
           "image": {
-            "alt": "download (3).png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/ca1b5e2c-0d01-47a1-862f-edb0af5088de_download-(3).png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/ca1b5e2c-0d01-47a1-862f-edb0af5088de_download-(3).png",
+            "alt": "download (3).png"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Estrategia empresarial",
+        "startDate": "2022-05-14",
+        "institution": {
+          "name": "Universitat Politècnica de València (UPV)",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/5dfdeba8-e668-48bf-aa11-702722458a32_download-(3).png",
+            "alt": "download (3).png"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Gestión de personas",
+        "startDate": "2017-10-01",
+        "institution": {
+          "name": "Universitat Politècnica de València (UPV)",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/20/7a45cbe0-10c0-4a02-a789-4a62e1d84c67_d.png",
+            "alt": "d.png"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Habilidades del líder emprendedor",
+        "startDate": "2017-10-01",
+        "institution": {
+          "name": "Universitat Politècnica de València (UPV)",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/20/612d3041-1ba6-445d-8a02-abd5f025bc1d_d.png",
+            "alt": "d.png"
           }
         }
       },
@@ -383,21 +425,50 @@
           "description": "Desarrolla tu capacidad de liderazgo, saca lo mejor de ti y de los demás y logra la excelencia a nivel profesional (y personal)\n\nUn programa para entender las dinámicas del comportamiento humano y alcanzar un grado superior de inteligencia emocional, social y psicoafectiva con el que lograr una transformación consciente y ayudar a otros a conseguir lo mismo",
           "URL": "https://www.alexroviraescuela.com/liderazgo-integral/",
           "image": {
-            "alt": "download.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/25df1e0e-f1e2-485c-af7a-04db9ed249fe_download.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/25df1e0e-f1e2-485c-af7a-04db9ed249fe_download.png",
+            "alt": "download.png"
           }
         }
       },
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Creatividad y generación de ideas",
-        "startDate": "2017-10-01",
+        "name": "Marketing",
+        "startDate": "2022-05-14",
         "institution": {
           "name": "Universitat Politècnica de València (UPV)",
           "image": {
-            "alt": "d.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/20/bec559f3-ceac-4605-938c-ca4e2349bfa8_d.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/4a5804b6-24d6-4809-9a47-ed89b4376efc_download-(3).png",
+            "alt": "download (3).png"
+          }
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Máster en Emprendimiento y Liderazgo Empresa, gestión, marketing y disciplinas afines",
+        "startDate": "2017-01-01",
+        "institution": {
+          "name": "EDEM Escuela de Empresarios",
+          "URL": "https://www.linkedin.com/school/edem-escuela-de-empresarios/?trk=public_profile_school_profile-section-card_full-click",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/7ba4e026-0fad-4318-ac83-a374084c75f7_download-(1).png",
+            "alt": "download (1).png"
+          }
+        },
+        "finishDate": "2018-12-31"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Periodismo ",
+        "startDate": "2011-01-01",
+        "institution": {
+          "name": "Universidad Miguel Hernández de Elche",
+          "URL": "https://www.linkedin.com/school/universidad-miguel-hernandez-de-elche/?trk=public_profile_school_profile-section-card_full-click",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/3954974e-5cf6-4517-9089-af06e25dc931_download-(2).png",
+            "alt": "download (2).png"
           }
         }
       },
@@ -409,85 +480,8 @@
         "institution": {
           "name": "Universitat Politècnica de València (UPV)",
           "image": {
-            "alt": "d.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/20/ff83bd23-edc9-42dd-b45a-147a241406a0_d.png"
-          }
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Gestión de personas",
-        "startDate": "2017-10-01",
-        "institution": {
-          "name": "Universitat Politècnica de València (UPV)",
-          "image": {
-            "alt": "d.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/20/7a45cbe0-10c0-4a02-a789-4a62e1d84c67_d.png"
-          }
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Habilidades del líder emprendedor",
-        "startDate": "2017-10-01",
-        "institution": {
-          "name": "Universitat Politècnica de València (UPV)",
-          "image": {
-            "alt": "d.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/20/612d3041-1ba6-445d-8a02-abd5f025bc1d_d.png"
-          }
-        }
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": false,
-        "name": "Periodismo ",
-        "startDate": "2011-01-01",
-        "institution": {
-          "name": "Universidad Miguel Hernández de Elche",
-          "URL": "https://www.linkedin.com/school/universidad-miguel-hernandez-de-elche/?trk=public_profile_school_profile-section-card_full-click",
-          "image": {
-            "alt": "download (2).png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/3954974e-5cf6-4517-9089-af06e25dc931_download-(2).png"
-          }
-        }
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Digital Product Management",
-        "startDate": "2022-11-01",
-        "finishDate": "2023-02-01",
-        "institution": {
-          "name": "Domestika",
-          "description": "Aprende cómo ser Product Manager y especialízate en gestionar productos digitales aplicando metodologías ágiles y estrategias de éxito a largo plazo.\n\n¿Quieres adentrarte en el mundo del Digital Product Management? Déjate guiar por María Granadino e Irene Prieto, ambas Product Managers, y aprende a crear productos digitales desde cero y descubre cuál es el rol del Product Manager en una empresa.\n\nEn este curso conocerás qué es el lean product management y aprenderás a detectar los problemas de los usuarios/as para encontrar esa oportunidad de mercado donde puedas aportar valor con tu producto digital. También experimentarás creando tu MVP (Mínimo Producto Viable) para lanzarlo al mercado y aprender de forma eficiente y user-centric.",
-          "URL": "https://www.domestika.org/es",
-          "image": {
-            "alt": "Domestika.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/24/a964fb85-4988-4b84-92ae-e33d0fc02777_domestika.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Miro",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Máster en Emprendimiento y Liderazgo Empresa, gestión, marketing y disciplinas afines",
-        "startDate": "2017-01-01",
-        "finishDate": "2018-12-31",
-        "institution": {
-          "name": "EDEM Escuela de Empresarios",
-          "URL": "https://www.linkedin.com/school/edem-escuela-de-empresarios/?trk=public_profile_school_profile-section-card_full-click",
-          "image": {
-            "alt": "download (1).png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/30/7ba4e026-0fad-4318-ac83-a374084c75f7_download-(1).png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/20/ff83bd23-edc9-42dd-b45a-147a241406a0_d.png",
+            "alt": "d.png"
           }
         }
       },
@@ -496,15 +490,35 @@
         "degreeAchieved": true,
         "name": "Proyecto Coworking EOI Mediterráneo ",
         "startDate": "2016-06-01",
-        "finishDate": "2017-09-01",
         "institution": {
           "name": "EOI Escuela de organización industrial ",
           "description": "Empresa, gestión, marketing y disciplinas afines",
           "URL": "https://www.eoi.es/es",
           "image": {
-            "alt": "logoeoiok.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/21/67fbcd53-6a11-49bb-84c3-a683335f086c_logoeoiok.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/21/67fbcd53-6a11-49bb-84c3-a683335f086c_logoeoiok.jpg",
+            "alt": "logoeoiok.jpg"
           }
+        },
+        "finishDate": "2017-09-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
         }
       }
     ]
@@ -513,8 +527,25 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/antonio-manuel-garc%C3%ADa-ceva-40732152/"
+          "URL": "https://www.linkedin.com/in/antonio-manuel-garc%C3%ADa-ceva-40732152/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/amgarciaceva",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/Antoniomanuelgc",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "amgarciaceva@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "665994092",
+          "countryCode": "+34"
         }
       ]
     },
@@ -542,6 +573,26 @@
         "Product Manager",
         "Project Manager & Delivery Manager"
       ]
-    }
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "I am motivated to develop humanised value propositions. In my work environment I value communication, respect and collegiality. I like structure and managing expectations in the right way. I like to work in a team.  ",
+    "goodPractices": "As an entrepreneur, I am a true believer in experimentation and validation through MVP (Minimum Viable Product). I am passionate about creating innovative solutions that meet the needs of our customers and at the same time are profitable for the company.\n\nIn my experience, I have found the OKR (Objectives and Key Results) system to be an invaluable tool to align the people in the company and help prioritise and manage the roadmap. This allows all team members to be on the same page and work together towards clear and measurable objectives.\n\nI am a strong advocate of data-driven approaches and anything that helps measure the value we are delivering. From my perspective, it is important to make decisions based on evidence and data.\n\nIn terms of project management methodologies, I am passionate about working with Scrum and Kanban. I love the dynamics and flexibility these methodologies offer, and how they allow us to adapt quickly to changes and maintain a constant focus on key objectives. In short, for me, success lies in the right combination of experimentation, focus on data and effective use of project management methodologies.",
+    "projects": [
+      {
+        "name": "Dawn of Fear"
+      }
+    ],
+    "bookmarks": [
+      {
+        "name": "La buena suerte ",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/13/13fb68bb-d2ce-4188-9866-3393f78611ea_buena_suerte_710_nue.jpeg"
+      },
+      {
+        "name": "La historia interminable ",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/22/dd2195a7-d75e-4702-9208-0989bc8de8fa_41rnsyfzyks.jpg"
+      }
+    ]
   }
 }
