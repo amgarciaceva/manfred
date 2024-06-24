@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -61,6 +61,18 @@
       }
     ],
     "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/antonio-manuel-garc%C3%ADa-ceva-40732152/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/amgarciaceva"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/Antoniomanuelgc"
+      },
       {
         "type": "other",
         "URL": "https://antonio-manuel-gc.super.site/",
@@ -213,14 +225,17 @@
     "languages": [
       {
         "name": "CA",
+        "fullName": "Catalán / Valenciano",
         "level": "Full professional proficiency"
       },
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Professional working proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -541,12 +556,6 @@
       ],
       "contactMails": [
         "amgarciaceva@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "665994092",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
@@ -570,7 +579,6 @@
       ],
       "preferredRoles": [
         "Human Resources",
-        "Product Manager",
         "Project Manager & Delivery Manager"
       ]
     },
